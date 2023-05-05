@@ -1,0 +1,361 @@
+hr{
+    width: 1000px;
+    align-items: center;
+    border-top: 3px dotted black;
+
+}
+
+
+/* Intro section */
+#intro{
+    margin-bottom: 100px;
+   
+}
+.navigation{
+   
+    padding: 13px;
+}
+.sg{
+    font-size: 30px;
+    background-image: linear-gradient(to left, #7928CA, #38B2AC);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+a{
+    font-family: 'Sigmar', cursive;
+    color: black;
+    text-decoration: solid;
+    font-weight: light;
+}
+
+
+.nav-text:hover{
+    background-image: linear-gradient(to left, #7928CA, #38B2AC);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+ 
+    
+    transition-timing-function: ease-out;
+    transition-duration: 0.5s;
+    font-size: 23px;
+    
+}
+.navbar-brand{
+    margin-left: 30px;
+}
+
+li{
+    margin-right: 80px;
+    color: black;
+    text-decoration: solid;
+    font-weight:normal;
+    font-family: 'Sigmar', cursive;
+    transition-timing-function: ease-in;
+    transition-duration: 0.5s;
+}
+
+.introduction{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    margin-top: 150px;
+
+}
+
+.myname{
+    position: relative;
+    top: 80px;
+}   
+
+
+.name{
+    font-size: 80px;
+    /* font-family: 'Lobster'; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #7928CA, #38B2AC);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+
+
+
+
+/* About me section  */
+
+.about{
+    margin-top: 150px;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 150px;
+}
+.aboutMe{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    align-items:center;
+}
+.aboutme-photo{
+    position: relative;
+    left: 60px;
+    top: -20px;
+    
+}
+.me{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Sigmar', cursive;
+}
+.my-photo{
+    margin-top: 60px;
+    margin-left: 20px;
+    border: 10px solid grey;
+}
+.myself{
+    margin-left: 40px;
+    margin-top: 90px;
+    width: 800px;
+    font-size: 1.75em;
+    font-family: 'Lilito One', cursive;
+}
+
+
+
+/* Skill section */
+
+.skill{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 150px;
+}
+.skills{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Sigmar', cursive;
+   margin-bottom: 80px;
+}
+.skillset{
+     width: 1200px;
+    height: 955px; 
+    /* border: 1px solid black; */
+    padding: 20px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    
+}
+
+span{
+    margin-top:3px;
+}
+.skill-image{
+    margin-left: 55px;
+    margin-top: -10px;
+    margin-right: -115px;
+}
+
+.black {
+    /* float: left; */
+    width: 151px;
+    height: 187.5px;
+  margin:30px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 5px;
+  transition: width .5s, height .5s, font-size .5s;
+  
+}
+.black:hover{
+    transition: transform .5s ease-out,border .5s ease-out;
+    box-shadow: 0px 8px 26px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    border: 2px solid #38B2AC;
+    width: 157px;
+    height: 193.5px;
+    transition: width .5s, height .5s, font-size .5s;
+    background-image: linear-gradient(to left, #7928CA, #38B2AC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+  font-size: 25px;
+
+    
+}
+.white:hover{
+    transition: transform .5s ease-out,border .5s ease-out;
+    box-shadow: 0px 8px 26px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    border: 2px solid #38B2AC;
+    width: 157px;
+    height: 193.5px;
+    transition: width .5s, height .5s, font-size .5s;
+    background-image: linear-gradient(to left, #7928CA, #38B2AC);
+    -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  font-size: 25px;
+
+}
+
+
+.white {
+    float: left;
+    width: 151px;
+    height: 187.5px;
+    margin:30px; 
+    display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 5px;
+  transition: width .5s, height .5s, font-size .5s;
+}
+.skill-name{
+    font-weight: 800;
+    margin-top: 7px;
+}
+
+
+
+
+
+/* Project */
+.projects{
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Sigmar', cursive;
+   margin-bottom: 50px;
+}
+
+.card{
+    width: 18rem;
+    height: 23rem;
+    border-radius: 5px;
+    border: 2px solid black;
+    transition: width .5s, height .5s, font-size .3s;
+}
+.card:hover{
+    width: 19rem;
+    height: auto;
+    text-align: center;
+    font-size: 20px;
+    transition: transform .5s ease,border .5s ease;
+    box-shadow: 0px 8px 26px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    border: 2px solid #38B2AC;
+    transition: width .5s, height .5s, font-size .3s;
+}
+.card-text{
+    font-family: 'Lilito One', cursive;
+   width: 16rem;
+}
+.card-title{
+    font-family: 'Lobster', cursive;
+}
+.project-column{
+    padding: 3% 8%;
+}
+
+
+
+/*work experince */
+.workexperince{
+    margin-bottom: 140px;
+}
+
+.work-heading{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Sigmar', cursive;
+   margin-bottom: 80px;
+}
+.workexp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.works{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    width: 1000px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.exppara{
+    margin: 25px;
+    font-size: 20px;
+
+}
+.IT{
+    font-family: 'Sigmar', cursive;
+    margin: 20px;
+}
+
+
+/* footer */
+
+.footer{
+    margin-top: 80px;
+    margin-bottom: 0px;
+    text-align: center;
+    /* position: relative;
+    */
+   
+}
+.content{
+    position: relative;
+    top: 90px;
+    display: flex;
+    flex-direction: row;
+}
+.copy{
+    color: black;
+    margin:10px;
+    font-family: 'Sigmar', cursive;
+    width: 500px;
+    transition-timing-function: ease-out;
+    transition-duration: 0.5s;
+}
+.copy:hover{
+    transition-timing-function: ease-out;
+    transition-duration: 0.5s;
+    font-size: 23px;
+}
+.copyright{
+    text-align: center;
+    position: relative;
+    top:200px;
+    font-family: 'Sigmar', cursive;
+    
+    color: black;
+}

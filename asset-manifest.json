@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/my-portfolio/static/js/main.31f01b77.js",
+    "static/media/my.jpg": "/my-portfolio/static/media/my.097f2558325d884c9653.jpg",
+    "static/media/laptop-wave.png": "/my-portfolio/static/media/laptop-wave.73fb9f3709479e8d9eb8.png",
+    "static/media/work.png": "/my-portfolio/static/media/work.0240dbc6f17c95f16fd6.png",
+    "static/media/sticker.png": "/my-portfolio/static/media/sticker.463bfc96f10725d66b7f.png",
+    "static/media/skill.png": "/my-portfolio/static/media/skill.a2def7b4a71d88f7a8fa.png",
+    "static/media/eclipse.png": "/my-portfolio/static/media/eclipse.2ad62ba9c60942fa8227.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.f6b89d232c9bc9f828e5.png",
+    "static/media/java.png": "/my-portfolio/static/media/java.d0be53e356542c3f88d2.png",
+    "static/media/vscode.png": "/my-portfolio/static/media/vscode.2837e0f55129ea6edcfc.png",
+    "static/media/nodejs.png": "/my-portfolio/static/media/nodejs.abfaef34ea49d0c7cd3c.png",
+    "static/media/CSS.png": "/my-portfolio/static/media/CSS.4e67641bb68b658d9b2b.png",
+    "static/media/intro-my.png": "/my-portfolio/static/media/intro-my.8088d5d0da900f8ddcd0.png",
+    "static/media/git.png": "/my-portfolio/static/media/git.90b5ec65a2b350bb3daf.png",
+    "static/media/C.png": "/my-portfolio/static/media/C.bbbbbabc8c191bfb99bf.png",
+    "static/media/jquery.png": "/my-portfolio/static/media/jquery.6c97b0df27ea573c492f.png",
+    "static/media/csharp.png": "/my-portfolio/static/media/csharp.fc430729bfa8902c06fd.png",
+    "static/media/mysql.png": "/my-portfolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.31f01b77.js.map": "/my-portfolio/static/js/main.31f01b77.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.31f01b77.js"
+  ]
+}
